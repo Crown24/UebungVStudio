@@ -1,0 +1,14 @@
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\bin\Debug\net6.0\GitUebung.exe
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\bin\Debug\net6.0\GitUebung.deps.json
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\bin\Debug\net6.0\GitUebung.runtimeconfig.json
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\bin\Debug\net6.0\GitUebung.dll
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\bin\Debug\net6.0\GitUebung.pdb
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\GitUebung.GeneratedMSBuildEditorConfig.editorconfig
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\GitUebung.AssemblyInfoInputs.cache
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\GitUebung.AssemblyInfo.cs
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\GitUebung.csproj.CoreCompileInputs.cache
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\GitUebung.dll
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\refint\GitUebung.dll
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\GitUebung.pdb
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\GitUebung.genruntimeconfig.cache
+G:\User\HHBK\Informatik\AIA31\Klausur 13.2\adwbgawizbgdawigd\GitUebung\GitUebung\obj\Debug\net6.0\ref\GitUebung.dll
